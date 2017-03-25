@@ -1,0 +1,10 @@
+*/Build
+*/Binaries
+*/DerivedDateCache
+*/Itermediate
+*/Saved
+BuildingEscape/Content/StarterContent/
+BuildingEscape/Intermediate/
+*.ipch
+*.VC.db
+
