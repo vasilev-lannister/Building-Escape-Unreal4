@@ -3,9 +3,11 @@
 */DerivedDateCache
 */Itermediate
 */Saved
-BuildingEscape/Content/StarterContent/Textures
-BuildingEscape/Content/StarterContent/HDRI
-BuildingEscape/Itermediate
+BuildingEscape/Content/StarterContent/
+BuildingEscape/Intermediate/
 *.ipch
 *.VC.db
 *.suo
+*.VC.db-shm
+*.VC.db-wal
+
